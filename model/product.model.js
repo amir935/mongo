@@ -6,10 +6,7 @@ const productSchema =  new schema({
     name: {
         type: String,
         require: true
-    },
-    price:{
-        type: String,
-        require: true
+    
     }
 })
 
